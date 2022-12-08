@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+.font-kodchasan {
+    font-family: 'Kodchasan', cursive;
+    font-size: 1.7em;
+    font-weight: 900;
+}
+
+.font-kaushan {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 3.5em;
+    font-weight: 400;
+}
+
+.font-inter {
+    font-family: 'Inter', cursive;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.home {
+    background-image: url('../assets/svg/background.svg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+
+.title-header {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.btn-join-us {
+    background-color: #B27C64;
+    color: white;
+    padding: 0.7em 1.9em;
+    border-radius: 12px;
+    border: none;
+    /* margin-bottom: 4.5%; */
+}
+
+.join-us {
+    margin-top: 4%;
+}
+
+.btn-join-us:hover, .btn-join-us:active {
+    background-color: #89604e;
+    color: white;
+}
+
+

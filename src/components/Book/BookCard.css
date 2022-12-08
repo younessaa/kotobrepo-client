@@ -1,0 +1,31 @@
+.bookCard {
+    background-color: #FBFBFB;
+    border-radius: 1em;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+.bookCardImage{
+    width: 70%;
+    height: 50vh;
+    padding: 0.5em;
+}
+
+.bookCardTitle {
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #0094BD;
+}
+
+.bookCardPrice {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #0f1111;
+    text-align: end;
+}
+
+.bookCardLibName {
+    font-size: 1em;
+    font-weight: 400;
+    color: #9C7D71;
+}

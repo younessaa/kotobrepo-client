@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+.book {
+    background-color: #FBFBFB;
+    border-radius: 1em;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    width: 80%;
+}
+
+.bookImage{
+    width: 90%;
+    height: 40vh;
+    padding: 0.5em;
+}
+
+.bookTitle, .bookAuthor, .bookPrice {
+    font-family: 'Inter', cursive;
+    font-weight: 400;
+}
+
+.bookTitle {
+    font-size: 2em;
+    color: #0094BD;
+}
+
+.bookAuthor {
+    font-size: 1.5em;
+    color: #9C7D71;
+}
+
+.libraryDetails {
+    margin-top: 1.5em;
+}
+
+.bookLibrary {
+    font-size: 1.2em;
+    color: #0f1111;
+}
+
+.bookPrice {
+    font-size: 1.35em;
+    font-weight: 600;
+    color: #0f1111;
+    text-align: center;
+}
+
+.bookValue {
+    font-size: 1.2em;
+    color: #0f1111;
+    text-align: center;
+}
+
+.bookLabel {
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #0f1111;
+    text-align: center;
+}
+
+.faIcon{
+    color: #0f1111;
+}
+

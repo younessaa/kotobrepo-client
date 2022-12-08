@@ -1,0 +1,37 @@
+
+
+.library {
+    background-color: #FBFBFB;
+    border-radius: 1em;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+
+.libraryImage{
+    width: 70%;
+    height: 50vh;
+    padding: 0.5em;
+}
+
+.libraryName {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: #9C7D71;
+}
+
+.libraryPhone {
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #493D2C; /* 0f1111 */  
+}
+
+.libraryAdresse {
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #493D2C;
+}
+
+.libraryAdresse, .libraryPhone {
+    text-align: start;
+    padding: 2px;
+}

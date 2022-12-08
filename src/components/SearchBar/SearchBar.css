@@ -1,0 +1,44 @@
+
+.selectBooks {
+    background-color: #EADCCF;
+    color: #5F6368;
+    padding: 12px 16px;
+    width: 10%;
+    border-bottom-left-radius: 0.7em;
+    border-bottom-right-radius: 0;
+    border-top-left-radius: 0.7em;
+    border-top-right-radius: 0;
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+.selectOption{
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.searchForm {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.searchInput {
+    border: none;
+    width: 150%;
+}
+
+.searchBar {
+    width: 50%;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0.7em;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0.7em;
+}
+
+.searchIcon {
+    position: relative;
+    top: 25%;
+    right: 0;
+    margin-right: 1em;
+}

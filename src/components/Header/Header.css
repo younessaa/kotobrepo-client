@@ -1,0 +1,14 @@
+.nav-link.navLink {
+    color: #B27C64 !important;
+    font-weight: 700 !important;
+    font-size: 1.2em;
+    margin-right: 8px;
+}
+
+nav a.active {
+    border-bottom: 2px solid #B27C64  !important;
+}
+
+.headerNav {
+    padding: 0.33em 2em 0.33em 1.5em;
+}
